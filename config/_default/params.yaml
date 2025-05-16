@@ -3,30 +3,30 @@
 ############################
 
 author:
-  name: elisa-qb
+  name: Elisa Ferrari
   image: author.png
-  greeting: "Your new Qubt site :tada:"
-  icon: ":wave:"
+  greeting: "Driven by data. Focused on lives."
+  #icon: ":wave:"
 
 ############################
 ## Links
 ############################
 
 links:
-  - github: https://github.com/elisa-qb/website
-  - link: https://github.com/elisa-qb/website#readme
-  # - website: 
-  # - x-twitter: 
+  - linkedin: https://www.linkedin.com/in/elisa-ferrari-data-analyst/
+  - github: https://github.com/elisa-qb
+  - x-twitter: https://x.com/ElisaFerra2119
   # - mastodon: 
-  # - linkedin: 
   # - instagram: 
   # - reddit: 
-  # - telegram: 
+  - telegram: https://t.me/Elisa_Ferrari 
   # - whatsapp: 
   # - signal: 
   # - codepen: 
   # - dev: 
-  # - email: 
+  - email: mailto:elisa.ferrari@quantabrain.ai 
+  - website: https://quantabrain.org 
+  # - link: https://quantabrain.org
   # - discord: 
   # - orcid: 
   # - slack: 
