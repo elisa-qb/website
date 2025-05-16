@@ -1,4 +1,4 @@
-module github.com/elisa-qb/website
+module github.com/elisa-qb.github.io
 
 go 1.24.3
 
