@@ -1,6 +1,6 @@
 # website
 
-Please follow the instructions below to finish the setup of your new Qubt site.
+Please follow the instructions below to finish the setup of your new Qubt site. A.
 
 ## Installation
 
