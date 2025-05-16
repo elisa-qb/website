@@ -1,4 +1,4 @@
-module github.com/chrede88/qubtTemplate
+module github.com/elisa-qb/website
 
 go 1.24.3
 
